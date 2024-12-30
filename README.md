@@ -1,5 +1,5 @@
 
-# Health Insurance Claims Management System
+# Health Insurance Claims 
 
 ## Project Overview
 The **Health Insurance Claims Management System** is a database-driven project designed to streamline the management and processing of health insurance claims. It leverages structured data storage, retrieval, and manipulation techniques using SQL, ensuring efficient and reliable data management for policyholders, healthcare providers, and insurers.
